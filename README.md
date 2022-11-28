@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @llaydak .
+- 👋 Hi, I’m Ilayda.
 - 👀 I’m interested in coding, AI, syber security.
 - 🌱 I’m currently learning basics of programming in language C.
 - 💞️ I’m looking to collaborate on basic projects for learning
