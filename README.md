@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilayda.
-- 👀 I’m interested in coding, AI, syber security.
-- 🌱 I’m currently learning basics of programming in language C.
-- 💞️ I’m looking to collaborate on basic projects for learning
+- 👀 I’m interested in coding and web development.
+- 🌱 I’m currently learning basics of programming with C, HTML, JavaScript and CSS.
+- 💞️ I’m looking to collaborate on basic projects that will help me gain more experience.
 - 📫 How to reach me: ilaaydakdag@gmail.com 
 
 <!---
