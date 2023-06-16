@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ilayda.
-- 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning basics of programming with C, HTML, JavaScript and CSS.
+- 👋 Hi, it's Ilayda.
+- 👀 I'm a computer engineering student, whose main focus is web development as of now.
+- 🌱 I’m currently learning basics of programming with HTML, JavaScript and CSS.
 - 💞️ I’m looking to collaborate on basic projects that will help me gain more experience.
-- 📫 How to reach me: ilaaydakdag@gmail.com 
+- 📫 You can reach me through e-mail: ilaaydakdag@gmail.com 
 
 <!---
 llaydak/llaydak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
