@@ -1,6 +1,6 @@
-- 👋 Hi, it's Ilayda.
-- 👀 I'm a computer engineering student, whose main focus is web development as of now.
-- 🌱 I’m currently learning basics of programming with HTML, JavaScript and CSS.
+- 👋 Hi, it's Ilayda!
+- 👀 I'm a computer engineering student, and I am interested in web development and data science.
+- 🌱 I’m currently learning basics of programming with C and Python. I'm also improve my design skills using HTML and CSS.
 - 💞️ I’m looking to collaborate on basic projects that will help me gain more experience.
 - 📫 You can reach me through e-mail: ilaaydakdag@gmail.com 
 
