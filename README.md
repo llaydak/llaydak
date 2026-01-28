@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, it's İlayda 
 
 ###  About Me
-- 🎓 Senior **Computer Engineering** student at **Gazi University** (GPA: $3.3/4.0$).
+- 🎓 Senior **Computer Engineering** student at **Gazi University** 
 - 🌍 Completed an Erasmus+ semester at **Bialystok University of Technology**, Poland.
 - 💻 Currently a Full-Stack Development Intern at **Turkcell**.
 - 🤖 Former Intern at **HAVELSAN** (Drone Monitoring) & **STM** (Drone Swarm Technologies).
