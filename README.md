@@ -8,8 +8,7 @@ You can click the Preview link to take a look at your changes.
 ###  About Me
 - 🎓 Senior **Computer Engineering** student at **Gazi University** 
 - 🌍 Completed an Erasmus+ semester at **Bialystok University of Technology**, Poland.
-- 💻 Currently a Full-Stack Development Intern at **Turkcell**.
-- 🤖 Former Intern at **HAVELSAN** (Drone Monitoring) & **STM** (Drone Swarm Technologies).
+- 🤖 Former Intern at **Turkcell**(Full-Stack Development), **HAVELSAN** (Drone Monitoring) & **STM** (Drone Swarm Technologies).
 
 
 ### 🌟 Featured Projects
